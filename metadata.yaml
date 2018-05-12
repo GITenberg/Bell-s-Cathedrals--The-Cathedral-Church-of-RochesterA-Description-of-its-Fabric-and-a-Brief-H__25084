@@ -1,0 +1,27 @@
+_repo: Bell-s-Cathedrals--The-Cathedral-Church-of-RochesterA-Description-of-its-Fabric-and-a-Brief-H__25084
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Palmer, G. H. (George Henry)
+    birthdate: 1871
+    gutenberg_agent_id: '28392'
+    url: http://www.gutenberg.org/2009/agents/28392
+description: ''
+gutenberg_issued: '2008-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25084'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NA'
+- !lcsh 'Rochester Cathedral (Rochester, Kent, England)'
+title: 'Bell''s Cathedrals: The Cathedral Church of Rochester
+
+  A Description of its Fabric and a Brief History of the Episcopal See'
+url: http://www.gutenberg.org/ebooks/25084
